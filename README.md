@@ -1,4 +1,4 @@
-## Laboratorio 2.
+## Desarrollo Front-End (Nv. 2) - Laboratorio
 
 Formulario para crear una cuenta ficticia de acceso a una página web.
 
